@@ -5,7 +5,7 @@ This is a Blog website build using :
       
 For the backend it uses Heruko for server with mongoDB atlas cluster for the database which is hosted in aws.
       
-#usage:
+## usage:
 
 after downloading run:
 
@@ -22,7 +22,7 @@ The website can be accesed in your local machine
       
      compose path         http://localhost:3000/compose     :  To add new post go to this path.
      
-Live website cab be accesed in
+ ## Live website cab be accesed in
 
       homepage path:       https://thawing-earth-23550.herokuapp.com/             : This is the starting page displaying the blog.
       
