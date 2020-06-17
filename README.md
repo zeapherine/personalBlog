@@ -1,16 +1,21 @@
 # personalBlog
 
+This is a Blog website build using : 
+      node JS,EJS, Express, mongoDB, Mongoose.
+      
+For the backend it uses Heruko for server with mongoDB atlas cluster for the database which is hosted in aws.
+      
+#usage:
 
-after diwnloading run:
+after downloading run:
+
 1) npm install
 2)node app.js
 
 
+The website can be accesed in your local machine
 
-This is a Blog website build using : 
-      node JS,EJS, Express, mongoDB, Mongoose
+     homepage path:       http://localhost:3000             : This is the starting page displaying the blog.
       
-usage:
-      http://localhost:3000             : This is the starting page displaying the blog.
-      
-      http://localhost:3000/compose     :  To add new post go to this path.
+     compose path         http://localhost:3000/compose     :  To add new post go to this path.
+     
