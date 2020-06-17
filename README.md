@@ -9,8 +9,8 @@ For the backend it uses Heruko for server with mongoDB atlas cluster for the dat
 
 after downloading run:
 
-1) npm install
-2)node app.js
+1) ###npm install
+2) ###node app.js
 
 
 The website can be accesed in your local machine
